@@ -1,3 +1,10 @@
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na PUCRS e em formação FullStack pela Javanauta Academy, com foco principal em back-end com Java e Spring Boot. Também desenvolvo conhecimentos em SQL, Git/GitHub, além de contato com Angular e React para construção de aplicações completas.
+
+💻 O programa inclui projetos práticos, aplicação de metodologias ágeis e boas práticas de desenvolvimento, fortalecendo minha preparação para atuar em equipes de tecnologia e contribuir para soluções eficientes e escaláveis.
+
+🚀 Busco minha primeira oportunidade profissional ou estágio em tecnologia para aplicar o que venho aprendendo e continuar evoluindo. Minhas experiências anteriores em atendimento e setor administrativo me deram habilidades em organização, comunicação e resolução de problemas, que hoje aplico também na área de desenvolvimento.
+
+
 ## 🚀 Linguagens e Tecnologias
 
 ### 🔹 Back-end
