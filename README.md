@@ -10,4 +10,4 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-![Skills](https://skillicons.dev/icons?i=java,spring,javascript,react,angular,sql,mongodb,postgresql,oracle,git,github,vscode,intellij)
+![Skills](https://skillicons.dev/icons?i=java,javascript,spring,react,angular,sql,oracle,git,github,vscode,intellij)
