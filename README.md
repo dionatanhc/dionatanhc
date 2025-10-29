@@ -1,20 +1,20 @@
-<h1 align="left">Hello👋</h1>
+<h1 align="left">Olá👋</h1>
 
 ###
 
-<p align="left">My name is Dionatan Castro and i'm a Backend Developer</p>
+<p align="left">Meu nome é Dionatan Castro e eu sou Desenvolvedor Backend</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">🎓 Student of Systems Analysis and Development at PUCRS<br>💻 Full Stack Training at Javanauta Academy — focused on Java | Spring Boot | SQL<br>📚 Also learning React, Angular, MongoDB, and PostgreSQL<br>🚀 Seeking my first professional opportunity in technology<br>🔧 Tools: Git/GitHub, IntelliJ IDEA, VS Code</p>
+<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas na PUCRS<br>💻 Formação FullStack pela Javanauta Academy — foco em Java | Spring Boot | SQL<br>📚 Também aprendendo React, Angular, MongoDB, PostgreSQL<br>🚀 Buscando minha primeira oportunidade profissional em tecnologia<br>🔧 Ferramentas: Ferramentas: Git/GitHub, IntelliJ IDEA, VS Code</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Linguagens e Ferramentas</h2>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h2 align="left">Social media</h2>
+<h2 align="left">Redes sociais</h2>
 
 ###
 
