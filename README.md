@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas na PUCRS<br>💻 Formação FullStack pela Javanauta Academy — foco em Java | Spring Boot | SQL<br>📚 Também aprendendo React, Angular, MongoDB, PostgreSQL<br>🚀 Buscando minha primeira oportunidade profissional em tecnologia<br>🔧 Ferramentas: Ferramentas: Git/GitHub, IntelliJ IDEA, VS Code</p>
+<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas na PUCRS<br>💻 Formação FullStack pela Javanauta Academy — foco em Java | Spring Boot | SQL<br>📚 Também aprendendo React, Angular, MongoDB, PostgreSQL<br>🚀 Buscando minha primeira oportunidade profissional em tecnologia<br>🔧 Ferramentas: Git/GitHub, IntelliJ IDEA, VS Code</p>
 
 ###
 
