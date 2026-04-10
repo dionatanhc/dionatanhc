@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Estudante de Ciência da Computação<br>💻 Formação FullStack pela Javanauta Academy — foco em Java | Spring Boot | SQL<br>📚 Também aprendendo React, Angular, MongoDB, PostgreSQL<br>🚀 Buscando minha primeira oportunidade profissional em tecnologia<br>🔧 Ferramentas: Git/GitHub, IntelliJ IDEA</p>
+<p align="left">🎓 Estudante de Ciência da Computação<br>💻 Formação FullStack pela Javanauta Academy — foco em Java | Spring Boot | SQL<br>📚 Também aprendendo React, Angular<br>🚀 Buscando minha primeira oportunidade profissional em tecnologia<br>🔧 Ferramentas: Git/GitHub, IntelliJ IDEA</p>
 
 ###
 
