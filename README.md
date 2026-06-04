@@ -14,31 +14,19 @@
 
 ###
 
-<h2 align="left">Linguagens e Ferramentas</h2>
+### Linguagens e Ferramentas
 
-###
-
-<div align="left">
-  <img src="https://jsdelivr.net" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://jsdelivr.net" height="40" alt="angular logo" />
-  <img width="12" />
-  <img src="https://jsdelivr.net" height="40" alt="spring logo" />
-  <img width="12" />
-  <img src="https://jsdelivr.net" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://jsdelivr.net" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://jsdelivr.net" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://jsdelivr.net" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://jsdelivr.net" height="40" alt="postman logo" />
-  <img width="12" />
-  <img src="https://jsdelivr.net" height="40" alt="intellij logo" />
-  <img width="12" />
-</div>
-
+<p align="left">
+  <img src="https://jsdelivr.net" height="40" alt="java" /> &nbsp;
+  <img src="https://jsdelivr.net" height="40" alt="angular" /> &nbsp;
+  <img src="https://jsdelivr.net" height="40" alt="spring" /> &nbsp;
+  <img src="https://jsdelivr.net" height="40" alt="postgresql" /> &nbsp;
+  <img src="https://jsdelivr.net" height="40" alt="mongodb" /> &nbsp;
+  <img src="https://jsdelivr.net" height="40" alt="docker" /> &nbsp;
+  <img src="https://jsdelivr.net" height="40" alt="git" /> &nbsp;
+  <img src="https://jsdelivr.net" height="40" alt="postman" /> &nbsp;
+  <img src="https://jsdelivr.net" height="40" alt="intellij" />
+</p>
 
 ###
 
