@@ -14,17 +14,9 @@
 
 ###
 
-### Linguagens e Ferramentas
+#### Linguagens e Ferramentas
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Minhas Ferramentas" />
-  </a>
-</p>
-
-
-
-
+![Java](https://skillicons.dev) ![Angular](https://skillicons.dev) ![Spring](https://skillicons.dev) ![Postgres](https://skillicons.dev) ![MongoDB](https://skillicons.dev) ![Docker](https://skillicons.dev) ![Git](https://skillicons.dev) ![Postman](https://skillicons.dev) ![IntelliJ](https://skillicons.dev)
 
 ###
 
