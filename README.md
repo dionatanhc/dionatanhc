@@ -14,9 +14,19 @@
 
 ###
 
-#### Linguagens e Ferramentas
+### Linguagens e Ferramentas
 
-![Java](https://skillicons.dev) ![Angular](https://skillicons.dev) ![Spring](https://skillicons.dev) ![Postgres](https://skillicons.dev) ![MongoDB](https://skillicons.dev) ![Docker](https://skillicons.dev) ![Git](https://skillicons.dev) ![Postman](https://skillicons.dev) ![IntelliJ](https://skillicons.dev)
+<p align="left">
+  <img src="./icones/java.svg" height="40" alt="java" /> &nbsp;
+  <img src="./icones/angular.svg" height="40" alt="angular" /> &nbsp;
+  <img src="./icones/spring.svg" height="40" alt="spring" /> &nbsp;
+  <img src="./icones/postgresql.svg" height="40" alt="postgresql" /> &nbsp;
+  <img src="./icones/mongodb.svg" height="40" alt="mongodb" /> &nbsp;
+  <img src="./icones/docker.svg" height="40" alt="docker" /> &nbsp;
+  <img src="./icones/git.svg" height="40" alt="git" /> &nbsp;
+  <img src="./icones/postman.svg" height="40" alt="postman" /> &nbsp;
+  <img src="./icones/intellij.svg" height="40" alt="intellij" />
+</p>
 
 ###
 
