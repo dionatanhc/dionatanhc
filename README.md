@@ -17,16 +17,17 @@
 ### Linguagens e Ferramentas
 
 <p align="left">
-  <img src="https://shields.io" height="35" alt="Java" /> &nbsp;
-  <img src="https://shields.io" height="35" alt="Angular" /> &nbsp;
-  <img src="https://shields.io" height="35" alt="Spring Boot" /> &nbsp;
-  <img src="https://shields.io" height="35" alt="PostgreSQL" /> &nbsp;
-  <img src="https://shields.io" height="35" alt="MongoDB" /> &nbsp;
-  <img src="https://shields.io" height="35" alt="Docker" /> &nbsp;
-  <img src="https://shields.io" height="35" alt="Git" /> &nbsp;
-  <img src="https://shields.io" height="35" alt="Postman" /> &nbsp;
-  <img src="https://shields.io" height="35" alt="IntelliJ" />
+  <img src="https://jsdelivr.net" height="40" alt="java" /> &nbsp;
+  <img src="https://jsdelivr.net" height="40" alt="angular" /> &nbsp;
+  <img src="https://jsdelivr.net" height="40" alt="spring" /> &nbsp;
+  <img src="https://jsdelivr.net" height="40" alt="postgresql" /> &nbsp;
+  <img src="https://jsdelivr.net" height="40" alt="mongodb" /> &nbsp;
+  <img src="https://jsdelivr.net" height="40" alt="docker" /> &nbsp;
+  <img src="https://jsdelivr.net" height="40" alt="git" /> &nbsp;
+  <img src="https://jsdelivr.net" height="40" alt="postman" /> &nbsp;
+  <img src="https://jsdelivr.net" height="40" alt="intellij" />
 </p>
+
 
 
 
