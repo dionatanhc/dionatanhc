@@ -17,15 +17,16 @@
 ### Linguagens e Ferramentas
 
 <p align="left">
-  <img src="./icones/java.svg" height="40" alt="java" /> &nbsp;
-  <img src="./icones/angular.svg" height="40" alt="angular" /> &nbsp;
-  <img src="./icones/spring.svg" height="40" alt="spring" /> &nbsp;
-  <img src="./icones/postgresql.svg" height="40" alt="postgresql" /> &nbsp;
-  <img src="./icones/mongodb.svg" height="40" alt="mongodb" /> &nbsp;
-  <img src="./icones/docker.svg" height="40" alt="docker" /> &nbsp;
-  <img src="./icones/git.svg" height="40" alt="git" /> &nbsp;
-  <img src="./icones/postman.svg" height="40" alt="postman" /> &nbsp;
-  <img src="./icones/intellij.svg" height="40" alt="intellij" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+
 </p>
 
 ###
